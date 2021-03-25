@@ -1,0 +1,12 @@
+body{
+  background: rgb(255,25,107);
+  background: radial-gradient(circle, rgba(255,25,107,1) 0%, rgba(255,255,255,1) 54%);
+}
+
+.circle{
+  height: 300px;
+  width: 300px;
+  background-color: yellow;
+  text-align: center;
+  border-radius: 150px;
+}
