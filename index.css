@@ -28,6 +28,8 @@ body{
 
 .button{
   margin-left: 0px;
+  text-decoration: none;
+  display: inline-block;
 }
 
 .button.move{
